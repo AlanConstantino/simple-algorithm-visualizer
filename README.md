@@ -20,5 +20,5 @@ A fun, interactive Python application that visually demonstrates the Bubble Sort
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/alanconstantino/bubble-sort-visualizer.git
+   git clone https://github.com/alanconstantino/simple-algorithm-visualizer.git
    cd simple-algorithm-visualizer
